@@ -1,4 +1,4 @@
-# Code golfing tips
+# Code golfing tips :golf:
 Tips to help lower your code golfing score
 
 ```js
@@ -15,6 +15,8 @@ x*=n  // x = x * n
 x/=n  // x = x / n
 a?b:c // Ternary operator `if(a){b}else{c}`
 ```
+
+Know more code golfing tips? Create an [issue](//github.com/chrisnager/code-golfing-tips/issues) or a [pull request](//github.com/chrisnager/code-golfing-tips/pulls) and I'll be happy to add it to the list.
 
 
 
