@@ -6,13 +6,16 @@ x+''  // Convert to a string
 +x    // Convert to a number
 ~~x   // Round down to the closest integer
 -~x   // Round up to the closest integer
-!!n   // Convert to a boolean
-x++   // x = x + 1
-x--   // x = x - 1
-x+=n  // x = x + n
-x-=n  // x = x - n
-x*=n  // x = x * n
-x/=n  // x = x / n
+!x    // Logical not operator
+!!x   // Convert to a boolean
+x++   // Returns x, then increments it
+++x   // Increments x, then returns it
+x--   // Returns x, then decrements it
+--x   // Decrements x, then returns it
+x+=n  // `x = x + n`
+x-=n  // `x = x - n`
+x*=n  // `x = x * n`
+x/=n  // `x = x / n`
 a?b:c // Ternary operator `if(a){b}else{c}`
 ```
 
