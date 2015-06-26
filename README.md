@@ -1,11 +1,11 @@
 # Code golfing tips :golf:
-Tips to help lower your code golfing score
+Tips to help lower your code golfing scores
 
 ```js
 x+''  // Convert to a string
 +x    // Convert to a number
-~~x   // Round down to the closest integer
--~x   // Round up to the closest integer
+~~x   // Round down to the nearest integer
+-~x   // Round up to the nearest integer
 !x    // Logical not operator
 !!x   // Convert to a boolean
 x++   // Returns x, then increments it
