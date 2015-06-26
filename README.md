@@ -1,19 +1,19 @@
 # Code golfing tips
-Tips to help lower your code golfing score.
+Tips to help lower your code golfing score
 
 ```js
 x+''  // Convert to a string
-+x    // Convert string to number
-~~x   // Round down to closest integer
--~x   // Round up to closest integer
-!!n   // Convert to boolean
-x++   // x = x + 1 
-x--   // x = x - 1 
-x+=n  // x = x + n 
-x-=n  // x = x - n 
-x*=n  // x = x * n 
-x/=n  // x = x / n 
-a?b:c // Ternary operator if(a){b}else{c}
++x    // Convert to a number
+~~x   // Round down to the closest integer
+-~x   // Round up to the closest integer
+!!n   // Convert to a boolean
+x++   // x = x + 1
+x--   // x = x - 1
+x+=n  // x = x + n
+x-=n  // x = x - n
+x*=n  // x = x * n
+x/=n  // x = x / n
+a?b:c // Ternary operator `if(a){b}else{c}`
 ```
 
 
@@ -22,7 +22,7 @@ a?b:c // Ternary operator if(a){b}else{c}
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Chris Nager
+Copyright (c) 2015 [Chris Nager](//twitter.com/chrisnager)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
